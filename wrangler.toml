@@ -4,5 +4,5 @@ compatibility_date = "2026-01-01"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "norju-db"
-database_id = "94c29b3e-d81c-4a54-b769-f2dfd6ab357a"
+database_name = "basu-db"
+database_id = "49cfbf6a-eb42-44df-8e31-78da0fc57e62"
